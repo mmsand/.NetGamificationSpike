@@ -1,0 +1,13 @@
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/bin/Debug/netcoreapp2.1/GamificationSpike.deps.json
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/bin/Debug/netcoreapp2.1/GamificationSpike.runtimeconfig.json
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/bin/Debug/netcoreapp2.1/GamificationSpike.runtimeconfig.dev.json
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/bin/Debug/netcoreapp2.1/GamificationSpike.dll
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/bin/Debug/netcoreapp2.1/GamificationSpike.pdb
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.csproj.CoreCompileInputs.cache
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.RazorAssemblyInfo.cache
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.RazorAssemblyInfo.cs
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.AssemblyInfoInputs.cache
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.AssemblyInfo.cs
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.RazorTargetAssemblyInfo.cache
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.dll
+/Users/markmikunas/Workspace/GamificationSpike/GamificationSpike/obj/Debug/netcoreapp2.1/GamificationSpike.pdb

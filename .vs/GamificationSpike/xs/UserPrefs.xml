@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3CE9E572-3F4D-4BDD-BE1E-41851397CF8E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GamificationSpike/Controllers/StepsController.cs">
+    <Files>
+      <File FileName="GamificationSpike/Models/Step.cs" Line="3" Column="1" />
+      <File FileName="GamificationSpike/Controllers/StepsController.cs" Line="25" Column="38" />
+      <File FileName="GamificationSpike/Models/Item.cs" Line="5" Column="7" />
+      <File FileName="GamificationSpike/Models/GamificationSpikeContext.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GamificationSpike PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
